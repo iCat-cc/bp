@@ -152,3 +152,4 @@ n.weights()
 plt.plot(X,D)
 plt.plot(X,d)
 plt.show()
+
