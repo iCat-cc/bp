@@ -1,5 +1,5 @@
-
-
+#来源：小凌のBlog—Good Times|一个不咋地的博客
+#https://blog.ling08.cn/
 # -*- coding: utf-8 -*-
 import math
 import string
